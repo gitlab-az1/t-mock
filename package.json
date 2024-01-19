@@ -29,6 +29,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "form-data": "^4.0.0"
+    "form-data": "^4.0.0",
+    "typesdk": "^2.3.3"
   }
 }

@@ -1,4 +1,4 @@
-import { ssrSafeWindow } from '../_ssr';
+import { ssrSafeWindow } from 'typesdk/ssr';
 
 
 /**
